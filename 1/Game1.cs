@@ -8,6 +8,7 @@ namespace _1
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        //update feature1
 
         public Game1()
         {
