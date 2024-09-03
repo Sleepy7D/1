@@ -12,6 +12,7 @@ namespace _1
         //update feature1
         //update feature2
         //update feature3
+        //update playerJump
 
         public Game1()
         {
